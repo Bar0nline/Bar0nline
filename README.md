@@ -1,4 +1,4 @@
-[![MasterHead](https://cdn.discordapp.com/attachments/994691458357530725/1130301739111821512/Logo.png?ex=663a24c6&is=6638d346&hm=1cf753a0dc9ef14ff4297d28125dd903925c7206ca28b267b1c8075221f7a00c&)
+[!MasterHead](https://cdn.discordapp.com/attachments/994691458357530725/1130301739111821512/Logo.png?ex=663a24c6&is=6638d346&hm=1cf753a0dc9ef14ff4297d28125dd903925c7206ca28b267b1c8075221f7a00c&)
 
 <h1 align="center">BARIŞ PAXAN</h1>
 <h3 align="center">Argon Community Admin</h3>
